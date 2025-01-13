@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um podcast com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/RMQS/prompts-recipe-to-create-a-ebook/blob/main/output/E-book%20Do%20Espa%C3%A7o%20ao%20Essencial%20-%20Sua%20mudan%C3%A7a%20para%20espa%C3%A7os%20menores.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/RMQS/prompts-for-podcast-generate-by-ia/blob/main/output/DecorCast_%20Design%20de%20Apartamento%20Pr%C3%A1tico%20e%20Charmoso.mp3" title="View PDF now"> 📕Clique aqui para ouvir</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
